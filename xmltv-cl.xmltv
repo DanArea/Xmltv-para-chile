@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-url="https://m3u.cl" source-info-name="M3U.CL" generator-info-name="M3U to XMLTV Script">
+  
+  <channel id="156">
+    <display-name>+ Listas en M3U.CL</display-name>
+    <icon src="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png"/>
+  </channel>
+
+  <channel id="4">
+    <display-name>Retro Plus TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png"/>
+  </channel>
+
+  <channel id="5">
+    <display-name>Retro Plus TV Señal 2</display-name>
+    <icon src="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png"/>
+  </channel>
+
+  <channel id="465">
+    <display-name>Retro Plus TV Señal 3</display-name>
+    <icon src="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png"/>
+  </channel>
+
+  <channel id="1160">
+    <display-name>VClassicTV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1160_VClassicTV.png"/>
+  </channel>
+
+  <channel id="1255">
+    <display-name>VClassicTV Tropical</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png"/>
+  </channel>
+
+  <channel id="521">
+    <display-name>Recuerdos Retro Radio TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png"/>
+  </channel>
+
+  <channel id="1605">
+    <display-name>Radio Fin Del Mundo TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1605_Radio_Fin_Del_Mundo_TV.png"/>
+  </channel>
+
+  <channel id="1654">
+    <display-name>Radio Puangue Curacavi</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1654_Radio_Puangue_Curacavi.png"/>
+  </channel>
+
+  <channel id="1435">
+    <display-name>+Cine</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1435__Cine.png"/>
+  </channel>
+
+  <channel id="1692">
+    <display-name>PRIDEtv Latam</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png"/>
+  </channel>
+
+  <channel id="1300">
+    <display-name>Moni TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1300_Moni_TV.png"/>
+  </channel>
+
+  <channel id="1466">
+    <display-name>Kanade TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1466_Kanade_TV.png"/>
+  </channel>
+
+  <channel id="1112">
+    <display-name>EnerGeek FAN</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png"/>
+  </channel>
+
+  <channel id="947">
+    <display-name>EnerGeek Retro</display-name>
+    <icon src="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png"/>
+  </channel>
+
+  <channel id="1266">
+    <display-name>EnerGeek Radio</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png"/>
+  </channel>
+
+  <channel id="1585">
+    <display-name>AniRetro</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1585_AniRetro.png"/>
+  </channel>
+
+  <channel id="1604">
+    <display-name>ZTV Anime</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png"/>
+  </channel>
+
+  <channel id="31">
+    <display-name>Portal FoxMix</display-name>
+    <icon src="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png"/>
+  </channel>
+
+  <channel id="13">
+    <display-name>Ruidos TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/13_Ruidos_TV.png"/>
+  </channel>
+
+  <channel id="1312">
+    <display-name>Eternal Metal</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1312_Eternal_Metal.png"/>
+  </channel>
+
+  <channel id="996">
+    <display-name>Latinos TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/996_Latinos_TV.png"/>
+  </channel>
+
+  <channel id="1014">
+    <display-name>PlanetaTV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1014_PlanetaTV.png"/>
+  </channel>
+
+  <channel id="1424">
+    <display-name>Parentesis TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1424_Parentesis_TV.png"/>
+  </channel>
+
+  <channel id="771">
+    <display-name>Mundo de la Musica TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png"/>
+  </channel>
+
+  <channel id="1288">
+    <display-name>Suyai TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1288_Suyai_TV.png"/>
+  </channel>
+
+  <channel id="1611">
+    <display-name>Suyai Radio</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1611_Suyai_Radio.png"/>
+  </channel>
+
+  <channel id="1098">
+    <display-name>CRTV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1098_CRTV.png"/>
+  </channel>
+
+  <channel id="1287">
+    <display-name>CDR</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1287_CDR.png"/>
+  </channel>
+
+  <channel id="1707">
+    <display-name>RCPA Radio Comunitaria</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1707_RCPA_Radio_Comunitaria.png"/>
+  </channel>
+
+  <channel id="1706">
+    <display-name>Central TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1706_Central_TV.png"/>
+  </channel>
+
+  <channel id="1705">
+    <display-name>Terranova TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1705_Terranova_TV.png"/>
+  </channel>
+
+  <channel id="1704">
+    <display-name>TuTV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1704_TuTV.png"/>
+  </channel>
+
+  <channel id="1703">
+    <display-name>Tazmania Hit</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1703_Tazmania_Hit.png"/>
+  </channel>
+
+  <channel id="1702">
+    <display-name>Radio Sendas TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1702_Radio_Sendas_TV.png"/>
+  </channel>
+
+  <channel id="1700">
+    <display-name>San Nicolas TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1700_San_Nicolas_TV.png"/>
+  </channel>
+
+  <channel id="1698">
+    <display-name>La Comarca TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1698_La_Comarca_TV.png"/>
+  </channel>
+
+  <channel id="428">
+    <display-name>Radio Romantica</display-name>
+    <icon src="https://cdn.m3u.cl/logo/428_Radio_Romantica.png"/>
+  </channel>
+
+  <channel id="397">
+    <display-name>FM Pulso</display-name>
+    <icon src="https://cdn.m3u.cl/logo/397_FM_Pulso.png"/>
+  </channel>
+
+  <channel id="411">
+    <display-name>Interradio TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/411_Interradio_TV.png"/>
+  </channel>
+
+  <channel id="1478">
+    <display-name>El Conquistador Santiago</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png"/>
+  </channel>
+
+  <channel id="398">
+    <display-name>El Sembrador</display-name>
+    <icon src="https://cdn.m3u.cl/logo/398_El_Sembrador.png"/>
+  </channel>
+
+  <channel id="419">
+    <display-name>El Conquistador Concepcion</display-name>
+    <icon src="https://cdn.m3u.cl/logo/419_El_Conquistador_Concepcion.png"/>
+  </channel>
+
+  <channel id="382">
+    <display-name>ChocolateFM</display-name>
+    <icon src="https://cdn.m3u.cl/logo/382_ChocolateFM.png"/>
+  </channel>
+
+  <channel id="1571">
+    <display-name>Radio La Señal</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1571_Radio_La_Senal.png"/>
+  </channel>
+
+  <channel id="406">
+    <display-name>Radio Ancoa TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/406_Radio_Ancoa_TV.png"/>
+  </channel>
+
+  <channel id="1552">
+    <display-name>Nina TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1552_Nina_TV.png"/>
+  </channel>
+
+  <channel id="414">
+    <display-name>AE Radio</display-name>
+    <icon src="https://cdn.m3u.cl/logo/414_AE_Radio.png"/>
+  </channel>
+
+  <channel id="1534">
+    <display-name>La Metro</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1534_La_Metro.png"/>
+  </channel>
+
+  <channel id="1565">
+    <display-name>Radio Imagen 106.5</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1565_Radio_Imagen_106_5.png"/>
+  </channel>
+
+  <channel id="1301">
+    <display-name>Radioactiva TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png"/>
+  </channel>
+
+  <channel id="1541">
+    <display-name>Sabrosona TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1541_Sabrosona_TV.png"/>
+  </channel>
+
+  <channel id="1270">
+    <display-name>La Clave</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1270_La_Clave.png"/>
+  </channel>
+
+  <channel id="1166">
+    <display-name>Dance FM</display-name>
+    <icon src="https://cdn.m3u.cl/logo/1166_Dance_FM.png"/>
+  </channel>
+
+  <channel id="882">
+    <display-name>Pauta TV</display-name>
+    <icon src="https://cdn.m3u.cl/logo/882_Pauta_TV.png"/>
+  </channel>
+
+</tv>
