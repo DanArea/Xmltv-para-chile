@@ -444,7 +444,7 @@
   </channel>
   <channel id="30ATelevisionChannel.us">
     <display-name>30A Television Channel</display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2ws"/>
   </channel>
   <channel id="30ATheBeachShow.us">
     <display-name>30A The Beach Show 720p</display-name>
@@ -456,7 +456,7 @@
   </channel>
   <channel id="30AWeLoveCars.us">
     <display-name>30A We Love Cars</display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqUusqp=CAU"/>
   </channel>
   <channel id="31Kanal.kz">
     <display-name>31 Kanal</display-name>
@@ -9264,7 +9264,7 @@
   </channel>
   <channel id="DeFianceMedia.pr">
     <display-name>DeFiance Media 1080p</display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2gusqp=CAU"/>
   </channel>
   <channel id="DegaTV.us">
     <display-name>Dega TV 720p [Not 24/7]</display-name>
@@ -10941,7 +10941,7 @@
   </channel>
   <channel id="EshraghNetwork.ir">
     <display-name>Eshragh</display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo&usqp=CAU"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwousqp=CAU"/>
   </channel>
   <channel id="EskaHitynaCzasie.pl">
     <display-name>Eska Hity na Czasie 1080i</display-name>
@@ -13158,7 +13158,7 @@
   </channel>
   <channel id="GREATmystery.uk@SD">
     <display-name>GREAT Mystery 1080p</display-name>
-    <icon src="https://image-cdn.suggestedtv.com/api/client/v1/image/ac0cfdfd-868c-4894-8dd9-dbe9f1a18a74?tenant=GREAT&mode=fit&width=300&height=73&format=png"/>
+    <icon src="https://image-cdn.suggestedtv.com/api/client/v1/image/ac0cfdfd-868c-4894-8dd9-dbe9f1a18a74?tenant=GREATmode=fitwidth=300height=73format=png"/>
   </channel>
   <channel id="">
     <display-name>GREAT real 1080p</display-name>
@@ -13827,7 +13827,7 @@
   </channel>
   <channel id="HITTV.es">
     <display-name>Hit Tv</display-name>
-    <icon src="https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1"/>
+    <icon src="https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236ssl=1"/>
   </channel>
   <channel id="HitradioO3.at">
     <display-name>Hitradio Ö3 720p [Not 24/7]</display-name>
@@ -16612,7 +16612,7 @@
   </channel>
   <channel id="KSANDT3.us">
     <display-name>KSAN-DT3</display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovgIthNmn9MgjbnrOV5Y_1fY8XLnmADvmGGUlACeIClMVnUaiTwBhYvyo0vKn4RQAfBk&usqp=CAU"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovgIthNmn9MgjbnrOV5Y_1fY8XLnmADvmGGUlACeIClMVnUaiTwBhYvyo0vKn4RQAfBkusqp=CAU"/>
   </channel>
   <channel id="KSBYDT1.us">
     <display-name>KSBY News San Louis Obispo CA 720p</display-name>
@@ -17192,7 +17192,7 @@
   </channel>
   <channel id="LatinaTV.ve">
     <display-name>Latina TV 1080p</display-name>
-    <icon src="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1"/>
+    <icon src="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500ssl=1"/>
   </channel>
   <channel id="LatinaTVInternacional.do@SD">
     <display-name>Latina TV Internacional 720p</display-name>
@@ -18403,7 +18403,7 @@
   </channel>
   <channel id="Maraya.sa">
     <display-name>Maraya 1080p</display-name>
-    <icon src="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png"/>
+    <icon src="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=autowidth=288croppingPoint=version=1type=png"/>
   </channel>
   <channel id="MarcaTV.ec">
     <display-name>Marca TV 1080p</display-name>
@@ -18713,7 +18713,7 @@
   </channel>
   <channel id="MBCGaming.sa">
     <display-name>MBC Gaming 1080p</display-name>
-    <icon src="https://shahid.mbc.net/mediaObject/ebd1455f-1669-4734-ba19-eb3140c1dba0?height=auto&width=288&croppingPoint=&version=1&type=png"/>
+    <icon src="https://shahid.mbc.net/mediaObject/ebd1455f-1669-4734-ba19-eb3140c1dba0?height=autowidth=288croppingPoint=version=1type=png"/>
   </channel>
   <channel id="HLAQDTV.kr">
     <display-name>MBC Gangwon MBC 강원영동 1080p [Not 24/7]</display-name>
@@ -19660,7 +19660,7 @@
   </channel>
   <channel id="FastTV.us">
     <display-name>MotorTrend FAST TV</display-name>
-    <icon src="https://us1-prod-images.disco-api.com/2020/7/13/4f26aaf2-a993-480d-9675-0d501fb8d86f.png?bf=0&f=png&p=true&q=85&w=250"/>
+    <icon src="https://us1-prod-images.disco-api.com/2020/7/13/4f26aaf2-a993-480d-9675-0d501fb8d86f.png?bf=0f=pngp=trueq=85w=250"/>
   </channel>
   <channel id="">
     <display-name>Motorvision</display-name>
@@ -25550,7 +25550,7 @@
   </channel>
   <channel id="QazaqstanInternational.kz@SD">
     <display-name>Qazaqstan International 1080p</display-name>
-    <icon src="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt="/>
+    <icon src="https://cdn.qazaqstan.tv/qazaqstan.png?w=420h=196format=pngresize=aspectfillg=centeralt="/>
   </channel>
   <channel id="Qazaqstan.kz">
     <display-name>Qazaqstan TV 720p [Not 24/7]</display-name>
@@ -27653,7 +27653,7 @@
   </channel>
   <channel id="RTD.dj@SD">
     <display-name>RTD</display-name>
-    <icon src="https://www.rtd.dj/images/logo.png#joomlaImage://local-images/logo.png?width=110&height=110"/>
+    <icon src="https://www.rtd.dj/images/logo.png#joomlaImage://local-images/logo.png?width=110height=110"/>
   </channel>
   <channel id="RTD4.dj@SD">
     <display-name>RTD 4</display-name>
@@ -28634,7 +28634,7 @@
   </channel>
   <channel id="SaudiThaqafiyaTV.sa">
     <display-name>Saudi Thaqafiya TV 1080p</display-name>
-    <icon src="https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg"/>
+    <icon src="https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=autowidth=512croppingPoint=version=1type=jpeg"/>
   </channel>
   <channel id="SaudiaRadio.sa">
     <display-name>Saudia Radio 1080p</display-name>
@@ -32374,7 +32374,7 @@
   </channel>
   <channel id="ThanthiOne.in">
     <display-name>Thanthi One 1080p</display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAaQKdmdiu7iORzWeeIaeMTSFVXazVHFXMAp2RoevnRYJsy4O8_cGmQl6wHcUTFu1P7MA&usqp=CAU"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAaQKdmdiu7iORzWeeIaeMTSFVXazVHFXMAp2RoevnRYJsy4O8_cGmQl6wHcUTFu1P7MAusqp=CAU"/>
   </channel>
   <channel id="ThanthiTV.in">
     <display-name>Thanthi TV 396p</display-name>
@@ -37652,7 +37652,7 @@
   </channel>
   <channel id="WelatTV.sy@HD">
     <display-name>Welat TV 1080i</display-name>
-    <icon src="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4"/>
+    <icon src="https://avatars.githubusercontent.com/u/213803648?s=400u=e27c09d39f813b9698de9c6559cbf7f196bf6fcev=4"/>
   </channel>
   <channel id="WellTV.it">
     <display-name>Well TV</display-name>
