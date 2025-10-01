@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Daniel-XMLTV">
+
+  <channel id="AE_HD">
+    <display-name>AE HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png"/>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="AUNAR_TV_F">
+    <display-name>AUNAR TV F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="AXN_HD">
+    <display-name>AXN HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"/>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="AMERICA_TV_HD">
+    <display-name>América TV HD</display-name>
+    <icon src="https://canalamerica.tv/images/sampledata/logos/lgocanalamerica02-original.fw.png"/>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="ANIMAL_PLANET_HD">
+    <display-name>Animal Planet HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="ANTENA_3">
+    <display-name>Antena 3</display-name>
+    <icon src="https://i.imgur.com/QMadWXp.png"/>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="BBC_NEWS">
+    <display-name>BBC News</display-name>
+    <icon src="https://i.imgur.com/pTiiPz0.png"/>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="BABY_TV">
+    <display-name>Baby TV</display-name>
+    <icon src="https://i.imgur.com/4BDJ5FT.png"/>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CANAL_13_2_HD_F">
+    <display-name>Canal 13.2 HD F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CHV">
+    <display-name>CHV</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CHV_HD">
+    <display-name>CHV HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CHV2_HD_F">
+    <display-name>CHV2 HD F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CINE_AR_F">
+    <display-name>CINE AR F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CNN_ESPANOL">
+    <display-name>CNN Español</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CNN_INTERNATIONAL">
+    <display-name>CNN International</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CANAL_1">
+    <display-name>Canal 1</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CANAL_13_HD">
+    <display-name>Canal 13 HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CANAL_13_SD">
+    <display-name>Canal 13 SD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CANAL_24HORAS_HD">
+    <display-name>Canal 24 Horas HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CARACOL">
+    <display-name>Caracol</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CARACOL_HD">
+    <display-name>Caracol HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CARTOON_NETWORK_HD">
+    <display-name>Cartoon Network HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CINECANAL_HD">
+    <display-name>Cinecanal HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CINEMAX">
+    <display-name>Cinemax</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CINEMAX_HD">
+    <display-name>Cinemax HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="COMEDY_CENTRAL_HD">
+    <display-name>Comedy Central HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="CORPORACION_TV_F">
+    <display-name>Corporación TV F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="DW_ESPANOL">
+    <display-name>DW Español</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="DISCOVERY_CHANNEL">
+    <display-name>Discovery Channel</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="DISCOVERY_CHANNEL_HD">
+    <display-name>Discovery Channel HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="DISCOVERY_HYH_HD">
+    <display-name>Discovery HH HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="DISCOVERY_HD">
+    <display-name>Discovery HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="DISCOVERY_KIDS_HD">
+    <display-name>Discovery Kids HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="DISCOVERY_THEATER_HD">
+    <display-name>Discovery Theater HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="DISCOVERY_WORLD_HD">
+    <display-name>Discovery World HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="DISNEY_HD">
+    <display-name>Disney HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="ESPN">
+    <display-name>ESPN</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="ESPN_2">
+    <display-name>ESPN 2</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="ESPN_2_HD">
+    <display-name>ESPN 2 HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="ESPN_3_HD">
+    <display-name>ESPN 3 HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="ESPN_4_HD">
+    <display-name>ESPN 4 HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="ESPN_5_HD">
+    <display-name>ESPN 5 HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="ESPN_6_HD">
+    <display-name>ESPN 6 HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="ESPN_HD">
+    <display-name>ESPN HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="ESPN_PREMIUM_HD">
+    <display-name>ESPN Premium HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="EWTN">
+    <display-name>EWTN</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="EL_GOURMET_HD">
+    <display-name>El Gourmet HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="EL_CANAL_DEL_FUTBOL_HD">
+    <display-name>El Canal del Fútbol HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="EUROCHANNEL">
+    <display-name>Eurochannel</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="EUROPA_EUROPA">
+    <display-name>Europa Europa</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="FX_HD">
+    <display-name>FX HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="FILM_AND_ARTS">
+    <display-name>FilmArts</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="FOOD_NETWORK_HD">
+    <display-name>Food Network HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="FOX_NEWS">
+    <display-name>Fox News</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="FRANCE_24">
+    <display-name>France 24</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="GOLPERU">
+    <display-name>GOLPERU</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="GOL_TV">
+    <display-name>Gol TV</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="HBO">
+    <display-name>HBO</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="HBO_FAMILY_HD">
+    <display-name>HBO Family HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="HBO_HD">
+    <display-name>HBO HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="HBO_MUNDI">
+    <display-name>HBO Mundi</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="HBO_POP_HD">
+    <display-name>HBO Pop HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="HBO_XTREME_HD">
+    <display-name>HBO Xtreme HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="HISTORY_2">
+    <display-name>History 2</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="HISTORY_CHANNEL_HD">
+    <display-name>History Channel HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="ID_HD">
+    <display-name>ID HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="KANAL_D_DRAMA">
+    <display-name>Kanal D Drama</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="LA_RED_HD">
+    <display-name>La Red HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="LAS_ESTRELLAS_HD">
+    <display-name>Las Estrellas HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="LATINA_HD">
+    <display-name>Latina HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="MEGA_2_HD_F">
+    <display-name>MEGA 2 HD F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="MEGA_HD">
+    <display-name>MEGA HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="MTV_00S_HD">
+    <display-name>MTV 00s HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="MTV_HD">
+    <display-name>MTV HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="NTN_24_HORAS">
+    <display-name>NTN 24 Horas</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="NTV_HD_F">
+    <display-name>NTV HD F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="NAT_GEO_HD">
+    <display-name>Nat Geo HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="NICK_HD">
+    <display-name>Nick HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="NUEVOS_COMIENZOS_F">
+    <display-name>Nuevos Comienzos F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="PAKA_PAKA_F">
+    <display-name>PAKA PAKA F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="PARAMOUNT_HD">
+    <display-name>Paramount HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="PASIONES_HD">
+    <display-name>Pasiones HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="RAI">
+    <display-name>RAI</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="RCN">
+    <display-name>RCN</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="RCN_HD">
+    <display-name>RCN HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="STAR_CHANNEL">
+    <display-name>Star Channel</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="STAR_CHANNEL_HD">
+    <display-name>Star Channel HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="STAR_TVE">
+    <display-name>STAR TVE</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="SEXTREME">
+    <display-name>Sextreme</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="SONY_HD">
+    <display-name>Sony HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="SPACE_HD">
+    <display-name>Space HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="STUDIO_UNIVERSAL_HD">
+    <display-name>Studio Universal HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="TEC_TV_F">
+    <display-name>TEC TV F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="TNT_HD">
+    <display-name>TNT HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="TNT_SERIES_HD">
+    <display-name>TNT Series HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="TNT_SPORTS_PREMIUM_HD">
+    <display-name>TNT Sports Premium HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="TVMAS_HD">
+    <display-name>TV+ HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="TVMAS_2_HD_F">
+    <display-name>TV+ 2 HD F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="TVN_HD">
+    <display-name>TVN HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="TVR_F">
+    <display-name>TVR F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="TELENOVELAS">
+    <display-name>Telenovelas</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="TEVEX_F">
+    <display-name>Tevex F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="TYC_SPORTS">
+    <display-name>TyC Sports</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="UCV_TV_HD_F">
+    <display-name>UCV TV HD F</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="USA_NETWORK">
+    <display-name>USA Network</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="VIA_X_ESPORTS">
+    <display-name>Via X Esports</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="WARNER_CHANNEL_HD">
+    <display-name>Warner Channel HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="WIN_SPORTS">
+    <display-name>Win Sports</display-name>
+    <group>Nacional</group>
+  </channel>
+
+  <channel id="WIN_SPORTS_PLUS_HD">
+    <display-name>Win Sports+ HD</display-name>
+    <group>Nacional</group>
+  </channel>
+
+</tv>
