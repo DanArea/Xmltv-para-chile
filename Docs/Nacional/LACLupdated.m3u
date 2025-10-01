@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&E_HD" tvg-name="A&E HD" tvg-chno="1" group-title="Nacional",A&E HD
+#EXTINF:-1 tvg-id="AE_HD" tvg-name="A&E HD" tvg-chno="1" group-title="Nacional",A&E HD
 http://38.250.127.17:9800/play/a09w/index.m3u8
 #EXTINF:-1 tvg-id="AUNAR_TV_F" tvg-name="AUNAR TV F" tvg-chno="2" group-title="Nacional",AUNAR TV F
 http://38.250.127.17:9800/play/a0ap/index.m3u8
