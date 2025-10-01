@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Dummy-EPG">
-  <channel id="A&E_HD">
+  <channel id="AE_HD">
     <display-name>AE HD</display-name>
 	<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png"/>
   </channel>
@@ -96,7 +96,7 @@
   <channel id="Discovery_Channel__HD">
     <display-name>Discovery Channel  HD</display-name>
   </channel>
-  <channel id="Discovery_H&H_HD">
+  <channel id="Discovery_HH_HD">
     <display-name>Discovery HH HD</display-name>
   </channel>
   <channel id="Discovery_HD">
@@ -159,7 +159,7 @@
   <channel id="FX_HD">
     <display-name>FX HD</display-name>
   </channel>
-  <channel id="Film&Arts">
+  <channel id="FilmArts">
     <display-name>FilmArts</display-name>
   </channel>
   <channel id="Food_Network_HD">
@@ -333,7 +333,7 @@
   <channel id="Win_Sports+_HD">
     <display-name>Win Sports+ HD</display-name>
   </channel>
-  <programme start="20251001034257 +0000" stop="20251001044257 +0000" channel="A&E_HD">
+  <programme start="20251001034257 +0000" stop="20251001044257 +0000" channel="AE_HD">
     <title lang="en">Sin EPG disponible</title>
     <desc lang="en">Este es un programa de relleno generado automáticamente.</desc>
   </programme>
@@ -453,7 +453,7 @@
     <title lang="en">Sin EPG disponible</title>
     <desc lang="en">Este es un programa de relleno generado automáticamente.</desc>
   </programme>
-  <programme start="20251001034257 +0000" stop="20251001044257 +0000" channel="Discovery_H&H_HD">
+  <programme start="20251001034257 +0000" stop="20251001044257 +0000" channel="Discovery_HH_HD">
     <title lang="en">Sin EPG disponible</title>
     <desc lang="en">Este es un programa de relleno generado automáticamente.</desc>
   </programme>
@@ -537,7 +537,7 @@
     <title lang="en">Sin EPG disponible</title>
     <desc lang="en">Este es un programa de relleno generado automáticamente.</desc>
   </programme>
-  <programme start="20251001034257 +0000" stop="20251001044257 +0000" channel="Film&Arts">
+  <programme start="20251001034257 +0000" stop="20251001044257 +0000" channel="FilmArts">
     <title lang="en">Sin EPG disponible</title>
     <desc lang="en">Este es un programa de relleno generado automáticamente.</desc>
   </programme>
